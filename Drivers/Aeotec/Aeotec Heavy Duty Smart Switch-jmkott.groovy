@@ -18,7 +18,7 @@
  * set KWH to report every 5 mins
  * set voltage to report every hour
  * Might want KWH and voltage to be every hour and Amps to be some value in between.  I don't really use Amps, so it's just extra traffic.
-
+ * Test Commit and Import
  */
 
 import groovy.transform.Field
