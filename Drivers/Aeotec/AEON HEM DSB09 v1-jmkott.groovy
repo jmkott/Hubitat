@@ -22,7 +22,7 @@ metadata {
 		namespace: 	"jmkott",
 		category: 	"HEM",
 		author: 	"J.M.Kott"
-		importUrl: 	"https://raw.githubusercontent.com/jmkott/Hubitat/main/Drivers/Aeotec/AEON%20HEM%20DSB09%20v1-jmkott.groovy")
+		importUrl: 	"https://raw.githubusercontent.com/jmkott/Hubitat/main/Drivers/Aeotec/AEON%20HEM%20DSB09%20v1-jmkott.groovy"
 	)
 	{
     	capability "Energy Meter"
