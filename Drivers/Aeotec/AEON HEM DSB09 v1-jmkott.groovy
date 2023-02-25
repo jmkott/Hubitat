@@ -12,7 +12,7 @@
  * - PowerL2 section was comparing new value to PowerL1
  * - Total power was updating Display, but each line was not updating Display.  Fixed.
  * - Made power unit a user setting to allow for better formatting on mobile dashboards.
- * What?  metadata updates aren't enough for Github?
+ * 
  **/
 
 metadata {
