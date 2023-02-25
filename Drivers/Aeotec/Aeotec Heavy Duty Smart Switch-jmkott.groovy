@@ -29,7 +29,7 @@ import groovy.transform.Field
 @Field String DEFAULT_LOG_LEVEL = LOG_LEVELS[1]
 
 metadata {
-  definition (name: "Aeotec Heavy Duty Smart Switch-jmkott", namespace: "jmkott", author: "J.M.Kott", importUrl: "https://raw.githubusercontent.com/syepes/Hubitat/master/Drivers/Aeotec/Aeotec%20Heavy%20Duty%20Smart%20Switch.groovy") {
+  definition (name: "Aeotec Heavy Duty Smart Switch-jmkott", namespace: "jmkott", author: "J.M.Kott", importUrl: "https://raw.githubusercontent.com/jmkott/Hubitat/main/Drivers/Aeotec/Aeotec%20Heavy%20Duty%20Smart%20Switch-jmkott.groovy") {
     capability "Actuator"
     capability "Switch"
     capability "Sensor"
